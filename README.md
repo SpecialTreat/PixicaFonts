@@ -14,3 +14,23 @@ Point sizes in multiples of 16 work best (16pt, 32pt, 48pt, etc...)
 Use PixicaMono-Regular.ttf if you just want a monospaced font without bold.
 
 Use PixicaMono-Wide.ttf and PixicaMono-Bold.ttf if you want to mix bold and regular monospace fonts. PixicaMono-Wide.ttf and PixicaMono-Bold.ttf were designed to have the same character width.
+
+
+## Character Map
+
+```
+!"#$%&'()*+,-./0123456789:;<=>?@
+ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`
+abcdefghijklmnopqrstuvwxyz{|}~¡¢
+£¤¥¦§¨©ª«¬®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃ
+ÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâã
+äåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂă
+ĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģ
+ĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃ
+ńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţ
+ŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžπАБВГ
+ДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвг
+дежзийклмнопрстуфхцчшщъыьэюя‑–—•
+‣⁰⁴⁵⁶⁷⁸⁹₀₁₂₃₄₅₆₇₈₉€℅℗℞℠™⇦⇧⇨⇩∞≈≠≤
+≥⌘⌥⎇◦☹☺♠♡♢♣♤♥♦♧⚀⚁⚂⚃⚄⚅⚐⚑⬅⬆⬇⮕
+```

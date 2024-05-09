@@ -34,3 +34,21 @@ abcdefghijklmnopqrstuvwxyz{|}~¡¢
 ‣⁰⁴⁵⁶⁷⁸⁹₀₁₂₃₄₅₆₇₈₉€℅℗℞℠™⇦⇧⇨⇩∞≈≠≤
 ≥⌘⌥⎇◦☹☺♠♡♢♣♤♥♦♧⚀⚁⚂⚃⚄⚅⚐⚑⬅⬆⬇⮕
 ```
+
+
+Used to make sample images on https://robruana.itch.io/pixica-fonts:
+```
+The quick brown fox jumps over the lazy dog.
+0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+
+ABCDEFGHIJKLM
+NOPQRSTUVWXYZ
+abcdefghijklm
+nopqrstuvwxyz
+ÅÉÎØÜÑБДЖИЛФЯ
+åéîøüñбджилфя
+1234567890²=≠
+π∞^<>«»()[]{}
+¿?!#$%&@/+*©™
+⇦⇧⇨⇩⬅⬆⬇⮕♡♥⚀⚁⚂
+```
